@@ -1,0 +1,6 @@
+As a <user type>, i want to <some goal>so that i can <(option)for some reason>
+As an Apartment Admin,i want to review receipts of tenants so that i can review their payment history
+As a contractor, I want to review the blueprints so that I plan estimated house cost.
+As a dog trainer, I want to review attendance history so that I can track progress. 
+As a teacher, I want to review reading hours so I can assess students that may need assistance.
+As a musician, I want to review music difficulty so I can plan how to learn it. 
