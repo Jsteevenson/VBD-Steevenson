@@ -1,0 +1,5 @@
+﻿18	803 Petters Streets                               	12 Jackson ave                                    	Lake City                     	MN        	65437	Heavenly_Home                                     	Lake City                     
+19	904 River Road                                    	67th ave                                          	Red Wing                      	MN        	34576	Caribean_View                                     	Red Wing                      
+16	12 Streets                                        	13th ave                                          	Red Wing                      	MN        	67896	Urban_Apartment                                   	Red Wing                      
+15	34 Main Streets                                   	911 Lake Streets                                  	Rochester                     	MN        	12442	Lake View                                         	Rochester                     
+17	507 Lake Streets                                  	948 Peppin ave                                    	Winona                        	MN        	98675	Blue_Sky                                          	Winona                        

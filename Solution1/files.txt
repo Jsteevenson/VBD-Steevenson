@@ -1,0 +1,50 @@
+﻿3	Blue_Sky                                          	5	1	 RiverBend Apartments	123 River Road	204	1000	1	2	1600.00	 Johanna J	Franck Lee	Blue_Sky                                          
+3	Blue_Sky                                          	5	2	the Gables	543 Turtle way	101	800	1	1	850.00	Jackson V	Julia Jones	Blue_Sky                                          
+3	Blue_Sky                                          	5	3	Pepin Apartments	907 Peppie Way	1b	650	1	1	700.00	Fred Jetson	Wilma Stone	Blue_Sky                                          
+3	Blue_Sky                                          	5	4	Lakeview Studios	2053 Sandbar Road	2a	500	1	NULL	650.00	Christy R	Phillips Anderson	Blue_Sky                                          
+3	Blue_Sky                                          	5	5	WhiteDoor Apartments	201 Green Street	308	1400	2	3	1800.00	Larry Williams	Ally A	Blue_Sky                                          
+3	Blue_Sky                                          	5	6	Shoreview Apartments	108 Brooklyn Park	33	550	1	NULL	650.00	Denis Frank	Bill M	Blue_Sky                                          
+3	Blue_Sky                                          	5	7	Peace Apartments	982 Love courte	57	900	1	2	1300.00	Jhon Miller	Terry McManis	Blue_Sky                                          
+3	Blue_Sky                                          	5	8	Sunrise Homes	705 MoonLight Drive	25	1400	2	3	1800.00	Lance Spangaler	Annie Solar	Blue_Sky                                          
+3	Blue_Sky                                          	5	9	Beach House Highrise	8700 Dolphin Ave	43	2000	3	4	2500.00	Blake Brooks	Catrina Ross	Blue_Sky                                          
+3	Blue_Sky                                          	5	10	River Complex	1808 Divine Blvd	37	1100	2	3	1800.00	Stephanie Pace	Cate Roody	Blue_Sky                                          
+5	Caribean_View                                     	7	1	 RiverBend Apartments	123 River Road	204	1000	1	2	1600.00	 Johanna J	Franck Lee	Caribean_View                                     
+5	Caribean_View                                     	7	2	the Gables	543 Turtle way	101	800	1	1	850.00	Jackson V	Julia Jones	Caribean_View                                     
+5	Caribean_View                                     	7	3	Pepin Apartments	907 Peppie Way	1b	650	1	1	700.00	Fred Jetson	Wilma Stone	Caribean_View                                     
+5	Caribean_View                                     	7	4	Lakeview Studios	2053 Sandbar Road	2a	500	1	NULL	650.00	Christy R	Phillips Anderson	Caribean_View                                     
+5	Caribean_View                                     	7	5	WhiteDoor Apartments	201 Green Street	308	1400	2	3	1800.00	Larry Williams	Ally A	Caribean_View                                     
+5	Caribean_View                                     	7	6	Shoreview Apartments	108 Brooklyn Park	33	550	1	NULL	650.00	Denis Frank	Bill M	Caribean_View                                     
+5	Caribean_View                                     	7	7	Peace Apartments	982 Love courte	57	900	1	2	1300.00	Jhon Miller	Terry McManis	Caribean_View                                     
+5	Caribean_View                                     	7	8	Sunrise Homes	705 MoonLight Drive	25	1400	2	3	1800.00	Lance Spangaler	Annie Solar	Caribean_View                                     
+5	Caribean_View                                     	7	9	Beach House Highrise	8700 Dolphin Ave	43	2000	3	4	2500.00	Blake Brooks	Catrina Ross	Caribean_View                                     
+5	Caribean_View                                     	7	10	River Complex	1808 Divine Blvd	37	1100	2	3	1800.00	Stephanie Pace	Cate Roody	Caribean_View                                     
+4	Heavenly_Home                                     	6	1	 RiverBend Apartments	123 River Road	204	1000	1	2	1600.00	 Johanna J	Franck Lee	Heavenly_Home                                     
+4	Heavenly_Home                                     	6	2	the Gables	543 Turtle way	101	800	1	1	850.00	Jackson V	Julia Jones	Heavenly_Home                                     
+4	Heavenly_Home                                     	6	3	Pepin Apartments	907 Peppie Way	1b	650	1	1	700.00	Fred Jetson	Wilma Stone	Heavenly_Home                                     
+4	Heavenly_Home                                     	6	4	Lakeview Studios	2053 Sandbar Road	2a	500	1	NULL	650.00	Christy R	Phillips Anderson	Heavenly_Home                                     
+4	Heavenly_Home                                     	6	5	WhiteDoor Apartments	201 Green Street	308	1400	2	3	1800.00	Larry Williams	Ally A	Heavenly_Home                                     
+4	Heavenly_Home                                     	6	6	Shoreview Apartments	108 Brooklyn Park	33	550	1	NULL	650.00	Denis Frank	Bill M	Heavenly_Home                                     
+4	Heavenly_Home                                     	6	7	Peace Apartments	982 Love courte	57	900	1	2	1300.00	Jhon Miller	Terry McManis	Heavenly_Home                                     
+4	Heavenly_Home                                     	6	8	Sunrise Homes	705 MoonLight Drive	25	1400	2	3	1800.00	Lance Spangaler	Annie Solar	Heavenly_Home                                     
+4	Heavenly_Home                                     	6	9	Beach House Highrise	8700 Dolphin Ave	43	2000	3	4	2500.00	Blake Brooks	Catrina Ross	Heavenly_Home                                     
+4	Heavenly_Home                                     	6	10	River Complex	1808 Divine Blvd	37	1100	2	3	1800.00	Stephanie Pace	Cate Roody	Heavenly_Home                                     
+1	Lake View                                         	2	1	 RiverBend Apartments	123 River Road	204	1000	1	2	1600.00	 Johanna J	Franck Lee	Lake View                                         
+1	Lake View                                         	2	2	the Gables	543 Turtle way	101	800	1	1	850.00	Jackson V	Julia Jones	Lake View                                         
+1	Lake View                                         	2	3	Pepin Apartments	907 Peppie Way	1b	650	1	1	700.00	Fred Jetson	Wilma Stone	Lake View                                         
+1	Lake View                                         	2	4	Lakeview Studios	2053 Sandbar Road	2a	500	1	NULL	650.00	Christy R	Phillips Anderson	Lake View                                         
+1	Lake View                                         	2	5	WhiteDoor Apartments	201 Green Street	308	1400	2	3	1800.00	Larry Williams	Ally A	Lake View                                         
+1	Lake View                                         	2	6	Shoreview Apartments	108 Brooklyn Park	33	550	1	NULL	650.00	Denis Frank	Bill M	Lake View                                         
+1	Lake View                                         	2	7	Peace Apartments	982 Love courte	57	900	1	2	1300.00	Jhon Miller	Terry McManis	Lake View                                         
+1	Lake View                                         	2	8	Sunrise Homes	705 MoonLight Drive	25	1400	2	3	1800.00	Lance Spangaler	Annie Solar	Lake View                                         
+1	Lake View                                         	2	9	Beach House Highrise	8700 Dolphin Ave	43	2000	3	4	2500.00	Blake Brooks	Catrina Ross	Lake View                                         
+1	Lake View                                         	2	10	River Complex	1808 Divine Blvd	37	1100	2	3	1800.00	Stephanie Pace	Cate Roody	Lake View                                         
+2	Urban_Apartment                                   	4	1	 RiverBend Apartments	123 River Road	204	1000	1	2	1600.00	 Johanna J	Franck Lee	Urban_Apartment                                   
+2	Urban_Apartment                                   	4	2	the Gables	543 Turtle way	101	800	1	1	850.00	Jackson V	Julia Jones	Urban_Apartment                                   
+2	Urban_Apartment                                   	4	3	Pepin Apartments	907 Peppie Way	1b	650	1	1	700.00	Fred Jetson	Wilma Stone	Urban_Apartment                                   
+2	Urban_Apartment                                   	4	4	Lakeview Studios	2053 Sandbar Road	2a	500	1	NULL	650.00	Christy R	Phillips Anderson	Urban_Apartment                                   
+2	Urban_Apartment                                   	4	5	WhiteDoor Apartments	201 Green Street	308	1400	2	3	1800.00	Larry Williams	Ally A	Urban_Apartment                                   
+2	Urban_Apartment                                   	4	6	Shoreview Apartments	108 Brooklyn Park	33	550	1	NULL	650.00	Denis Frank	Bill M	Urban_Apartment                                   
+2	Urban_Apartment                                   	4	7	Peace Apartments	982 Love courte	57	900	1	2	1300.00	Jhon Miller	Terry McManis	Urban_Apartment                                   
+2	Urban_Apartment                                   	4	8	Sunrise Homes	705 MoonLight Drive	25	1400	2	3	1800.00	Lance Spangaler	Annie Solar	Urban_Apartment                                   
+2	Urban_Apartment                                   	4	9	Beach House Highrise	8700 Dolphin Ave	43	2000	3	4	2500.00	Blake Brooks	Catrina Ross	Urban_Apartment                                   
+2	Urban_Apartment                                   	4	10	River Complex	1808 Divine Blvd	37	1100	2	3	1800.00	Stephanie Pace	Cate Roody	Urban_Apartment                                   
